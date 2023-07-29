@@ -1,11 +1,9 @@
-# Manthe-Mourning-Hall
+## **有华不辱，愧对父母**
 
-欢迎来到Manthe的奇妙灵堂
+https://github.com/8964-my-duty/xijinping/assets/140707282/22ff650c-44e7-4a72-b035-ec2a47f4be41
 
-由于Manthe在forums.vape.gg发布辱华言论和封锁中国ip，特此来整个活
 
-Vape可能会倒闭，但不会变质
 
-你不想吃这口饭，别人抢着吃
+https://github.com/8964-my-duty/xijinping/assets/140707282/0bafb419-804a-4ae7-a4a5-84a465761b2f
 
-请允许我们在此献上最后的告别，以此纪念其在中国MC寄圈留下的回忆与足迹。
+
