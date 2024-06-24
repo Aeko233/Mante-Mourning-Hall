@@ -1,7 +1,7 @@
 #!/bin/bash
 
 mcsmanager_install_path="/opt/mcsmanager"
-mcsmanager_download_addr="https://github.rc1844.workers.dev/MCSManager/MCSManager/releases/download/v10.2.1/mcsmanager_linux_release.tar.gz"
+mcsmanager_download_addr="https://59-47-237-130.pd1.123pan.cn:30443/download-cdn.123pan.cn/123-896/ffb588bd/1815896253-0/ffb588bde6ab9ed392df8c9535dae780/c-m39?v=5&t=1719306864&s=171930686458fda6ec0bd0f344b7b8c4b2cd039d3b&r=LF9KV9&bzc=2&bzs=313632373138363a36393039353330373a33323135373337373a30&filename=mcsmanager_linux_release.tar.gz&x-mf-biz-cid=32cd54dc-3ca9-423a-87fa-89c1351e7a69-a0d664&auto_redirect=0&ndcp=1&cache_type=1&xmfcid=9018c6dd-98c1-4723-808f-ed4f879a6c65-1-50111d3b1"
 package_name="mcsmanager_linux_release.tar.gz"
 node="v20.12.2"
 arch=$(uname -m)
